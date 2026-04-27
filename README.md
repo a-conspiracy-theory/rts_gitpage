@@ -6,21 +6,14 @@
 A concise, one-sentence description of what this project does and who it is for.
 
 ## Project Description
-
+    This project aims to implement a coma patient monitoring system. Its main job is patient stability sensing. It is able to track a patients heart rate, their blood oxygen level, and their temperature. If detected values exceed a given range, the system will enter a critical state. This critical state will alert the acting nurse who will then call a hospital code depending on severity. This project also implements a monitoring web portal which displays extra data, such as heart rate history and exact critical state information. The emergency state can be toggled from this webpage or from a button on the device if it is required.
 
 ## ✨ Key Features
-* **Responsive Design:** Works on desktop, tablet, and mobile.
-* **Feature A:** Brief description of a core functionality.
-* **Feature B:** Brief description of another core functionality.
+* **Web Portal:** A simple, concise web portal tracks all important patient info.
+* **Broad Sensing:** Three separate patient vitals are tracked, ensuring absolute knowledge of state.
+* **Intense Signaling:** Bright LED state monitors and large webpage changes ensure acting personel are informed of patient state changes.
 
 ## 🛠️ Tech Stack
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Frameworks:** (e.g., React, Jekyll, Hugo)
-* **Deployment:** GitHub Pages
-
-## 📦 Installation & Local Setup
-If you want to run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+* **Core:** An ESP32 microcontroller effortlessly keeps the system running with 50-ms deadlines
+* **Kernel:** The FreeRTOS kernel ensures strict timing requirements are kept, so you always know how your patient is doing
+* **Software:** Lightweight software means efficient, fast execution. Never worry about sensor lag or notification delay.
