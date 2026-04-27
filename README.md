@@ -1,6 +1,5 @@
 # Coma Patient Monitor
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![View Site](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/a-conspiracy-theory/rts-coma-monitor)
 
 Accurate & fast monitoring service for unconsious patients
@@ -11,7 +10,7 @@ This project aims to implement a coma patient monitoring system. Its main job is
 ## ✨ Key Features
 * **Web Portal:** A simple, concise web portal tracks all important patient info.
 * **Broad Sensing:** Three separate patient vitals are tracked, ensuring absolute knowledge of state.
-* **Intense Signaling:** Bright LED state monitors and large webpage changes ensure acting personel are informed of patient state changes.
+* **Intense Signaling:** Bright LED state monitors and large webpage changes ensure acting personel are immediately informed of patient state changes.
 
 ## 🛠️ Tech Stack
 * **Core:** An ESP32 microcontroller effortlessly keeps the system running with 50-ms deadlines
