@@ -1,12 +1,12 @@
-# Project Title
+# Coma Patient Monitor
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![View Site](https://img.shields.io/badge/View-Live_Demo-blue)](https://your-username.github.io/your-repo-name/)
+[![View Site](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/a-conspiracy-theory/rts_gitpage)
 
 A concise, one-sentence description of what this project does and who it is for.
 
-## 🚀 Live Demo
-You can view the live site here: [https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/)
+## Project Description
+
 
 ## ✨ Key Features
 * **Responsive Design:** Works on desktop, tablet, and mobile.
