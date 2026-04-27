@@ -1,7 +1,7 @@
 # Coma Patient Monitor
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![View Site](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/a-conspiracy-theory/rts_coma_monitor)
+[![View Site](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/a-conspiracy-theory/rts-coma-monitor)
 
 A concise, one-sentence description of what this project does and who it is for.
 
