@@ -9,6 +9,8 @@ This project aims to implement a coma patient monitoring system. Its main job is
 
 {% include youtube.html id="2YpgbN0muC4" %}
 
+
+
 ## Key Features
 * **Web Portal:** A simple, concise web portal tracks all important patient info.
 * **Broad Sensing:** Three separate patient vitals are tracked, ensuring absolute knowledge of state.
